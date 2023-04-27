@@ -12,7 +12,7 @@ Tabelas de conteúdo
 
 ## Desenvolvimento em Container:
 
-O desenvolvimento será realizado usando um volume com referencia no diretorio raíz desse git.
+O desenvolvimento será realizado usando um volume com referencia no **diretorio raíz desse git**.
 
  1. [Instalar Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) no seu Sistema Operacional (nesse caso usaremos versão 20.04)
  2. Instalar ferramenta *docker-compose* no seu Sistema Operacional (nesse caso usaremos a versão 3.8)
@@ -25,7 +25,11 @@ O desenvolvimento será realizado usando um volume com referencia no diretorio r
  ~~~
  docker-compose up -d
  ~~~
- 6. [Acessar aplicação local](https://localhost:80)
+ 6. [Acessar aplicação local](http://localhost:80)
+ 7. Para desligar o servidor rode:
+ ~~~
+ docker-compose down
+ ~~~
 
 Utilize com sabedoria :wink:
 

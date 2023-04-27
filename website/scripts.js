@@ -1,0 +1,1 @@
+console.log("Se quisesse para fazer algum controle... teria como.")
