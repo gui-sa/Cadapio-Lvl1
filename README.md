@@ -14,7 +14,7 @@ Tabelas de conteúdo
 
 O desenvolvimento será realizado usando um volume com referencia no diretorio raíz desse git.
 
- 1. [Instalar Docker](https://www.docker.com/) no seu Sistema Operacional (nesse caso usaremos versão 20.04)
+ 1. [Instalar Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) no seu Sistema Operacional (nesse caso usaremos versão 20.04)
  2. Instalar ferramenta *docker-compose* no seu Sistema Operacional (nesse caso usaremos a versão 3.8)
  3. Clonar este repositorio:
  ~~~
