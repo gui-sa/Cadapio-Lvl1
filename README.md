@@ -9,7 +9,11 @@ Tabelas de conteúdo
 
 *******
 <div id='sobre'/>
+
 ## Sobre o Site:
+ - Barra de navegação acompanha a rolagem de tela
+ - Ao clicar no link de navegação ele rola a tela rapidamente até o ponto desejado
+ - Ainda não é responsivo mas esta planejado.
 
 ![image](https://user-images.githubusercontent.com/58073678/234885696-2121977d-3c21-4aea-ada4-92152b768d8e.png)
 ![image](https://user-images.githubusercontent.com/58073678/234885923-7a4281a1-9aa2-4049-8bce-2427cc896acc.png)
